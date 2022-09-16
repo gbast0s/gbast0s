@@ -33,7 +33,6 @@
 <br>
 <br>
 <br>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gbast0s&show_icons=true&locale=en" alt="gbast0s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbast0s&" alt="gbast0s" /></p>
