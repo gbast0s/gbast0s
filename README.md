@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **goncalo.simoesbastos@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I don't like coffee that much 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
