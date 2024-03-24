@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Siagri**
 
-- 🌱 I’m currently learning **Angular**
+<!-- - 🌱 I’m currently learning **Angular** -->
 
-- 💬 Ask me about **Vue, Laravel**
+- 💬 Ask me about **Vue, Laravel, Angular**
 
 - 📫 How to reach me **goncalo.simoesbastos@gmail.com**
 
