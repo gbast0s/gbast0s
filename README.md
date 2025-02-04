@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently learning **Angular** -->
 
-- 💬 Ask me about **Vue, Laravel, Angular**
+- 💬 Ask me about **Vue, Laravel, Angular, .NET**
 
 - 📫 How to reach me **goncalo.simoesbastos@gmail.com**
 
