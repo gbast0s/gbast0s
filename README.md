@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbast0s&label=Profile%20views&color=0e75b6&style=flat" alt="gbast0s" /> </p>
 
-- 🔭 I’m currently working on **Siagri, Dlits and WezootAuctions**
+- 🔭 I’m currently working on **Siemens internal projects**
 
 <!-- - 🌱 I’m currently learning **Angular** -->
 
