@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Siemens internal projects**
 
-<!-- - 🌱 I’m currently learning **Angular** -->
+<!-- - 🌱 I’m currently improving my skills with **.NET & Angular** -->
 
-- 💬 Ask me about **Vue, Laravel, Angular, .NET**
+- 💬 Ask me about **Angular, .NET, Vue, Laravel**
 
 - 📫 How to reach me **goncalo.simoesbastos@gmail.com**
 
